@@ -1,0 +1,160 @@
+.checkbox-container {
+  width: 668px;
+  height: 60px;
+  margin-left: 17px;
+  margin-bottom: 20px;
+}
+
+.cardbody-theraphy-checkbox {
+  width: 1200px;
+  height: 210px;
+  border: 2px solid #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-bottom: 18px;
+}
+.cardbody-theraphy-device {
+  width: 1200px;
+  height: 163px;
+  border: 2px solid #ffffff;
+  box-shadow: 1px 1px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-bottom: 18px;
+  padding: 39px;
+}
+.text-area {
+  width: 895.33px;
+  height: 103px;
+  margin-left: 20px;
+}
+.cardbody-theraphy-notes {
+  width: 1200px;
+  height: 163px;
+  border: 2px solid #ffffff;
+  box-shadow: 1px 1px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-bottom: 18px;
+  padding: 39px;
+}
+.cardbody-theraphy-notes {
+  display: flex;
+}
+.therapy-main-tile {
+  display: flex;
+}
+.therapy-main-tile > .therapy-tile {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6px;
+  width: 50%;
+  padding-left: 0px;
+}
+.therapy-main-tile > .therapy-tile > .tile-heading {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #9b9393;
+}
+.therapy-main-tile > .therapy-tile > .tile-content {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #9b9393;
+}
+
+.device-heading {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.main-ck-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.svgIcon {
+  margin-right: 10px;
+}
+
+.ckLabel {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.inputTypeTherapy {
+  margin-left: "10px";
+  border: 1px solid #ccc;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  width: 270px;
+}
+
+.start-treatment {
+  box-sizing: border-box;
+  /* position: absolute; */
+  width: 287px;
+  height: 59px;
+
+  /* left: 303px;
+top: 142px; */
+  margin-left: 427px;
+  margin-top: 29px;
+  margin-bottom: 33px;
+  background: #21aae1;
+  border: 2px solid #21aae1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+.save-treatment {
+  box-sizing: border-box;
+  /* position: absolute; */
+  width: 287px;
+  height: 59px;
+
+  /* left: 303px;
+top: 142px; */
+  margin-left: 427px;
+  margin-top: 29px;
+  margin-bottom: 33px;
+  background: #3c68b1;
+  border: 2px solid #3c68b1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.tumor-size {
+  margin-left: "20px";
+  border: 1px solid #ccc;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  width: 70px;
+  height: 30px;
+}
+
+.tumor-div {
+  display: flex;
+  align-items: center;
+}
+
+.tumor-div > div {
+  padding-right: 10px;
+  padding-left: 10px;
+}
